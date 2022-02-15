@@ -1,6 +1,0 @@
-## (22.02.15.화) ALL-CON 리팩토링
-
-## ISSUE LIST
-
-## 1) [클라이언트] 마이페이지: Redux 상태관리 코드 리팩토링 진행중 (dispatch)
-## 2) [서버] (POST) conchin-article 컨트롤러 수정 (Article Default Image 
